@@ -24,7 +24,9 @@ Because the design is written in **code** (JavaScript), you are not limited to 5
 ## 🧰 The Ingredients (What You Need)
 To run this engine, you only need three things, all of which are **100% FREE**:
 1. **A Google Account** (For Google Drive, Google Docs, and Google Apps Script).
-2. **A DeepSeek Account** (Free tier works perfectly for generating the script).
+2. **DeepSeek Access** — Use the web version at [chat.deepseek.com](https://chat.deepseek.com) OR install a browser extension for quick access:
+   * **Chrome:** [DeepSeek AI on Chrome Web Store](https://chromewebstore.google.com/detail/deepseek-ai/fgbieegonkgdlkmeaapmkejdlfalonkb) [citation:1]
+   * **Firefox:** [DeepSeek AI: Sidebar & Assistant on Firefox Add-ons](https://addons.mozilla.org/firefox/addon/deepseek-ai-sidebar-assistant/) [citation:4]
 3. **A Web Browser** (Chrome, Edge, Firefox - no software installation required).
 
 ---
@@ -32,7 +34,7 @@ To run this engine, you only need three things, all of which are **100% FREE**:
 ## 🚀 The Deep-Dive Step-by-Step Deployment Guide
 
 ### Step 1: Get the Code from DeepSeek
-1. Open a new tab and go to [DeepSeek Chat](https://chat.deepseek.com).
+1. Open a new tab and go to [DeepSeek Chat](https://chat.deepseek.com) (or click the DeepSeek extension icon in your browser toolbar if you installed it).
 2. Log in / Sign up (it's completely free).
 3. Copy and paste this exact prompt into the chat:
    > *"Write a Google Apps Script (JavaScript) that uses the DocumentApp API to generate a perfectly formatted resume in Google Docs. It needs to include a header, a summary, technical skills, projects, and experience. Use borderless tables to right-align dates. Make links blue and clickable using setLinkUrl. Add horizontal lines under section headers using appendHorizontalRule. Set page margins to 36 points."*
@@ -114,3 +116,13 @@ This project is licensed under the MIT License. Fork it, break it, redesign it, 
 
 ---
 *Created by [Dickman Pious](https://github.com/dickmanpiouscyber)*
+
+
+<img width="966" height="1468" alt="image" src="https://github.com/user-attachments/assets/df10b540-6f4f-4a88-89ff-8a472b2c1b74" />
+
+
+<img width="1896" height="1178" alt="image" src="https://github.com/user-attachments/assets/8fe12d82-d232-462c-bda5-cd97a7aaab21" />
+
+
+<img width="1324" height="418" alt="image" src="https://github.com/user-attachments/assets/b4931ad3-62e8-4296-8cae-91be7db8ad8c" />
+
