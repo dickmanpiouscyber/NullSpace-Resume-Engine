@@ -30,7 +30,7 @@ To run this engine, you only need three things, all of which are **FREE**:
 
 ## 🚀 Step-by-Step Deployment Guide
 
-### Step 1: Generate Content with AI (DeepSeek / ChatGPT)
+### Step 1: Generate Content with AI (DeepSeek )
 1. Go to [DeepSeek Chat](https://chat.deepseek.com) or ChatGPT.
 2. Give it your raw resume text and prompt it:
    > *"Rewrite my resume for a VAPT Analyst role. Make it ATS-friendly, use strong action verbs, and keep it to 1 page. Do not use emojis."*
